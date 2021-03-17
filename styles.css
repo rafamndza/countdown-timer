@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Inter";
+    src: url(./assets/Fonts/Intern/Inter.ttf) format(truetype);
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url(./assets/Fonts/PlayfairDisplay/PlayfairDisplay.ttf) format(truetype);
+    font-display: swap;
+    font-style: normal;
+}
+
+*{
+    box-sizing:border-box;
+    margin:0;
+}
